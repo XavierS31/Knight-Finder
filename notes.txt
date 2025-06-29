@@ -1,0 +1,41 @@
+<---------- Friday January 31st Log ---------->
+To Do:
+- Explained each part of the project we worked on so far.
+- Brainstormed Ideas for the Ai chat bot Location and style
+
+Goals for today:
+- Create and finish the Local Storage
+    -> Step 1: use "chrome.storage" Api in js | declare storage permisiion in manifest file
+    -> Step 2: Implement it methods like: chrome.storage.local.Set
+               chrome.storage.local.get
+
+
+<------ Monday February 3rd - Friday February 7th ------>
+Goals for Week:
+- Finish the history backend
+    - Backend, Storage, 
+- Research if history idea interaction is applicable, if not, start work on databases
+    - 
+
+<---------- February 7th Log ---------->
+TO DO:
+- 2 weeeks now have a rough
+    - not all features but a rough idea of what we are trying
+- Making History Update in real time
+- Geminin Api
+- Restructuring of the UI
+
+Goals for Today:
+- Research the Popular searches tab and how to implement it
+- begin restructuring of the UI
+
+<---------- Thursday, February 27th Log ---------->
+Goals for Today:
+- Finishing up the Server
+    -> Flask is complete
+    -> Intstall a MySQL connection using python
+    -> Need SQL Database to be set up (coded in SQL)
+    -> Python Script to connect to the SQl Database
+- Knight Hacks Check-in Tomorrow 2/28
+- To Do by Next Friday
+    --> Have research done for the databases and setting up a server, explain and be able to write code.
