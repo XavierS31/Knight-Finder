@@ -117,7 +117,7 @@ def get_search_terms():
     return jsonify({ "searches": search_terms })    
 
 # 2) Configure your API key and initialize the client
-API_KEY = "AIzaSyBYZa6iVFRLCafUQXi0LkOZseUybNC6Rxg"
+API_KEY = "YOUR_API_KEY"
 client = genai.Client(api_key=API_KEY)
 
 #Define the google search tool
@@ -366,3 +366,4 @@ if __name__ == "__main__":
     #except Exception as e:
      #   print("❌ Error saving data:", e)
       #  return jsonify({ "error": str(e) }), 500
+
